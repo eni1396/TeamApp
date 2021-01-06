@@ -35,7 +35,7 @@ class TestStartedViewController: UIViewController {
         for button in allButtons {
             button.layer.cornerRadius = 5
         }
-        
+        //
         addVerticalGradientLayer(topColor: primaryColor, bottomColor: secondaryColor)
         
     }
