@@ -1,0 +1,55 @@
+[33mcommit ce2c7c5f28888be72b05ff89eb6be4f553964dd9[m[33m ([m[1;36mHEAD -> [m[1;32mandrian[m[33m)[m
+Merge: 57cc6d5 fab77b6
+Author: andrianandrian-bot <75638382+andrianandrian-bot@users.noreply.github.com>
+Date:   Fri Jan 8 10:31:13 2021 +0300
+
+    Merge branch 'andrian' of https://github.com/andrianandrian-bot/TeamApp into andrian
+
+[33mcommit 57cc6d528f80605fe63d823efa79e995caffcf94[m[33m ([m[1;31mtestrep/andrian[m[33m)[m
+Author: andrianandrian-bot <75638382+andrianandrian-bot@users.noreply.github.com>
+Date:   Fri Jan 8 10:24:13 2021 +0300
+
+    add testfile
+
+[33mcommit fab77b61ebd2f40c4e13ea90520563348f234030[m[33m ([m[1;31mmyrep/andrian[m[33m)[m
+Author: mishv <r30611@yandex.ru>
+Date:   Wed Jan 6 20:16:17 2021 +0300
+
+    new branch (Andrian)
+
+[33mcommit d5edf1ed283a5c7fcf9728f3bb98dfdb733abd49[m
+Merge: d889075 12ef217
+Author: mishv <r30611@yandex.ru>
+Date:   Wed Jan 6 19:47:50 2021 +0300
+
+    Merge remote-tracking branch 'refs/remotes/origin/andrian'
+
+[33mcommit 12ef217c7195366fe4a1d9c93126cc05e2818f06[m
+Author: mishv <r30611@yandex.ru>
+Date:   Wed Jan 6 19:35:09 2021 +0300
+
+    new branch (Andrian)
+
+[33mcommit d889075f3760cbe4e268ff04df841d9b89f1a966[m[33m ([m[1;31mmyrep/master[m[33m)[m
+Author: mishv <r30611@yandex.ru>
+Date:   Wed Jan 6 19:33:16 2021 +0300
+
+    new branch (Andrian)
+
+[33mcommit b89b2dd99caeb73ed20e43d93cdbafe323b16b51[m
+Author: mishv <r30611@yandex.ru>
+Date:   Wed Jan 6 19:31:02 2021 +0300
+
+    new branch (Andrian)
+
+[33mcommit 04d020b279ae9e47b1f7df62b3aec0330bb8db2f[m
+Author: mishv <r30611@yandex.ru>
+Date:   Wed Jan 6 19:12:48 2021 +0300
+
+    TestStartedViewController added
+
+[33mcommit fba1b201ef265c65ce0f370bceeac0188728db47[m[33m ([m[1;31mtestrep/master[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: mishv <r30611@yandex.ru>
+Date:   Mon Jan 4 23:37:33 2021 +0300
+
+    Initial Commit
