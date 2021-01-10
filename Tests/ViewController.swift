@@ -32,11 +32,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var answer4: UIButton!
     
     
-<<<<<<< HEAD
-    // обновление вопросов
-=======
-    
->>>>>>> 46049588c3eb9d49ef78f88a95afa1460108afac
+
     private func updateUI() {
         
         let currentQuestion = questions[questionIndex]
@@ -51,7 +47,7 @@ class ViewController: UIViewController {
         for button in [answer1,answer2,answer3,answer4] {
             button?.isHidden = false
         }
-        // в конце каждого блока выскакивает
+        // в конце каждого блока выскакивает алерт
         if questionIndex == 9 {
             showAlert(title: "Конец 1 теста", message: "Правильно - \(correctAnswer) , неправильно - \(incorrectAnswer)")
             correctAnswer = 0
@@ -140,11 +136,10 @@ class ViewController: UIViewController {
                 }
             }
         }
-<<<<<<< HEAD
-// алерт для показа правильности выбора ответа
-=======
 
->>>>>>> 46049588c3eb9d49ef78f88a95afa1460108afac
+// алерт для показа правильности выбора ответа
+
+
     private func showAlert(title: String?, message: String?) {
         let alert = UIAlertController(title: title, message: message, preferredStyle: .alert)
         let action = UIAlertAction(title: "OK", style: .default, handler: nil)
